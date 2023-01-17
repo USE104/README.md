@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **JavaScript,HTML, C#, MySQL**
 
-- 📫 How to reach me **jose.hssilva97@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
